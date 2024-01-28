@@ -1,9 +1,9 @@
 # jplasser.github.io
-Personal Github Page
+## Jürgen's Personal Github Page
+<img src="IMG_0067.JPG" width=100px/>
 
 ### Hi there 👋
-
-<br>
+_This is work in progress, stay tuned._
 
 - 🔭 Master of Science Artificial Intelligence, Johannes Kepler University, (Contrastive Learning with MIMIC-III, see [CNEP](https://github.com/jplasser/CNEP))
 - 💬 Ask me anything about application security, or machine learning/deep learning (I am a Pytorch guy)
