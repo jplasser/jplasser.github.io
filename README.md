@@ -12,6 +12,7 @@ Personal Github Page
 - 😄 Pronouns: he/him vi/vim
 - [<img src="https://img.shields.io/badge/pytorch-78268A?style=for-the-badge&logo=pytorch" />](https://www.pytorch.org) [<img src="https://img.shields.io/badge/python-20435F?style=for-the-badge&logo=python" />](https://www.python.org)
 
+Here's my [Github](https://github.com/jplasser) landing page.
 
 <!--
 **jplasser/jplasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
