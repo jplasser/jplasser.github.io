@@ -1,5 +1,4 @@
-# jplasser.github.io
-## Jürgen's Personal Github Page
+# Jürgen's Personal Website
 <img src="IMG_0067.JPG" width=100px/>
 
 ### Hi there 👋
