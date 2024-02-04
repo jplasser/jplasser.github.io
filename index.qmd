@@ -1,5 +1,5 @@
 # Jürgen's Personal Website
-<img src="IMG_0067.JPG" width=100px/>
+<img src="portrait-juergen-plasser.jpg" width=100px/>
 
 ### Hi there 👋
 _This is work in progress, stay tuned._
