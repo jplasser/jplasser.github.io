@@ -2,3 +2,5 @@ project:
   type: website
   output-dir: docs
 
+website:
+  favicon: favicon-16x16.png
