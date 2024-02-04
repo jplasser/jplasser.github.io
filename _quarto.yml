@@ -3,4 +3,4 @@ project:
   output-dir: docs
 
 website:
-  favicon: favicon-16x16.png
+  favicon: favicon-32x32.png
