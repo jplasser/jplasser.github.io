@@ -4,6 +4,7 @@ project:
 
 website:
   favicon: favicon-32x32.png
+  title: "Plasser.net"
 
 format:
   html:
